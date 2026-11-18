@@ -1,0 +1,108 @@
+{
+ "dual_phenotype_genes": {
+  "CTSC": {
+   "n_conditions": 3,
+   "non_dental": [
+    "Haim-Munk syndrome",
+    "Papillon-Lef\u00e8vre syndrome"
+   ],
+   "positioned_ptv": 50
+  },
+  "DSPP": {
+   "n_conditions": 5,
+   "non_dental": [
+    "Genetic hearing loss"
+   ],
+   "positioned_ptv": 52
+  },
+  "EDA": {
+   "n_conditions": 3,
+   "non_dental": [
+    "Hypohidrotic X-linked ectodermal dysplasia",
+    "Hypohidrotic ectodermal dysplasia"
+   ],
+   "positioned_ptv": 104
+  },
+  "KCTD1": {
+   "n_conditions": 2,
+   "non_dental": [
+    "Scalp-ear-nipple syndrome"
+   ],
+   "positioned_ptv": 0
+  },
+  "LAMB3": {
+   "n_conditions": 4,
+   "non_dental": [
+    "Junctional epidermolysis bullosa",
+    "Junctional epidermolysis bullosa gravis of Herlitz",
+    "Junctional epidermolysis bullosa, non-Herlitz type"
+   ],
+   "positioned_ptv": 270
+  },
+  "LRP6": {
+   "n_conditions": 4,
+   "non_dental": [
+    "Coronary artery disease, autosomal dominant 2",
+    "Exudative vitreoretinopathy 8",
+    "Osteopetrosis, autosomal dominant 4"
+   ],
+   "positioned_ptv": 58
+  },
+  "MSX1": {
+   "n_conditions": 3,
+   "non_dental": [
+    "Orofacial cleft 5"
+   ],
+   "positioned_ptv": 24
+  },
+  "PTH1R": {
+   "n_conditions": 4,
+   "non_dental": [
+    "Chondrodysplasia Blomstrand type",
+    "Eiken syndrome",
+    "Metaphyseal chondrodysplasia, Jansen type"
+   ],
+   "positioned_ptv": 9
+  },
+  "SLC24A4": {
+   "n_conditions": 2,
+   "non_dental": [
+    "SKIN/HAIR/EYE PIGMENTATION 6, BLOND/BROWN HAIR"
+   ],
+   "positioned_ptv": 3
+  },
+  "TSPEAR": {
+   "n_conditions": 3,
+   "non_dental": [
+    "Autosomal recessive nonsyndromic hearing loss 98",
+    "Ectodermal dysplasia 14, hair/tooth type with or without hypohidrosis"
+   ],
+   "positioned_ptv": 56
+  },
+  "WDR72": {
+   "n_conditions": 2,
+   "non_dental": [
+    "Inherited distal renal tubular acidosis"
+   ],
+   "positioned_ptv": 39
+  },
+  "WNT10A": {
+   "n_conditions": 4,
+   "non_dental": [
+    "Hypohidrotic ectodermal dysplasia",
+    "Sch\u00f6pf-Schulz-Passarge syndrome"
+   ],
+   "positioned_ptv": 84
+  },
+  "WNT10B": {
+   "n_conditions": 2,
+   "non_dental": [
+    "Split hand-foot malformation 6"
+   ],
+   "positioned_ptv": 14
+  }
+ },
+ "n_dual": 13,
+ "n_dual_ge10": 10,
+ "n_isolated": 31
+}

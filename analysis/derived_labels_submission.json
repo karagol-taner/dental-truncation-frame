@@ -1,0 +1,570 @@
+{
+ "genes": {
+  "CTSC": {
+   "literature_symbol": null,
+   "n_dental": 41,
+   "n_gnomad_hc_pass": 83,
+   "n_non_dental": 2,
+   "protein_aa": 463,
+   "windows": {
+    "last_10pct": {
+     "dental_in": 3,
+     "dental_out": 38,
+     "gnomad_in": 9,
+     "gnomad_out": 74,
+     "non_dental_in": 0,
+     "non_dental_out": 2,
+     "p_dental_vs_gnomad": 0.7491679577192958,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "dental_in": 7,
+     "dental_out": 34,
+     "gnomad_in": 15,
+     "gnomad_out": 68,
+     "non_dental_in": 0,
+     "non_dental_out": 2,
+     "p_dental_vs_gnomad": 1.0,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.752
+    },
+    "last_exon": {
+     "dental_in": 9,
+     "dental_out": 32,
+     "gnomad_in": 15,
+     "gnomad_out": 68,
+     "non_dental_in": 0,
+     "non_dental_out": 2,
+     "p_dental_vs_gnomad": 0.6339337864366337,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.641
+    },
+    "nmd_50nt_rule": {
+     "dental_in": 12,
+     "dental_out": 29,
+     "gnomad_in": 15,
+     "gnomad_out": 68,
+     "non_dental_in": 0,
+     "non_dental_out": 2,
+     "p_dental_vs_gnomad": 0.1709874470890798,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.605
+    }
+   }
+  },
+  "DSPP": {
+   "literature_symbol": null,
+   "n_dental": 34,
+   "n_gnomad_hc_pass": 52,
+   "n_non_dental": 5,
+   "protein_aa": 1301,
+   "windows": {
+    "last_10pct": {
+     "dental_in": 9,
+     "dental_out": 25,
+     "gnomad_in": 5,
+     "gnomad_out": 47,
+     "non_dental_in": 0,
+     "non_dental_out": 5,
+     "p_dental_vs_gnomad": 0.07008203830950858,
+     "p_dental_vs_non_dental": 0.31775905460115983,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "dental_in": 16,
+     "dental_out": 18,
+     "gnomad_in": 5,
+     "gnomad_out": 47,
+     "non_dental_in": 3,
+     "non_dental_out": 2,
+     "p_dental_vs_gnomad": 0.00018935380017066764,
+     "p_dental_vs_non_dental": 0.6614196614196614,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "dental_in": 33,
+     "dental_out": 1,
+     "gnomad_in": 5,
+     "gnomad_out": 47,
+     "non_dental_in": 5,
+     "non_dental_out": 0,
+     "p_dental_vs_gnomad": 2.3753901224145008e-17,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.288
+    },
+    "nmd_50nt_rule": {
+     "dental_in": 33,
+     "dental_out": 1,
+     "gnomad_in": 5,
+     "gnomad_out": 47,
+     "non_dental_in": 5,
+     "non_dental_out": 0,
+     "p_dental_vs_gnomad": 2.3753901224145008e-17,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.275
+    }
+   }
+  },
+  "EDA": {
+   "literature_symbol": null,
+   "n_dental": 1,
+   "n_gnomad_hc_pass": 9,
+   "n_non_dental": 85,
+   "protein_aa": 391,
+   "windows": {
+    "last_10pct": {
+     "dental_in": 0,
+     "dental_out": 1,
+     "gnomad_in": 1,
+     "gnomad_out": 8,
+     "non_dental_in": 4,
+     "non_dental_out": 81,
+     "p_dental_vs_gnomad": 1.0,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "dental_in": 0,
+     "dental_out": 1,
+     "gnomad_in": 1,
+     "gnomad_out": 8,
+     "non_dental_in": 17,
+     "non_dental_out": 68,
+     "p_dental_vs_gnomad": 1.0,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.752
+    },
+    "last_exon": {
+     "dental_in": 0,
+     "dental_out": 1,
+     "gnomad_in": 1,
+     "gnomad_out": 8,
+     "non_dental_in": 12,
+     "non_dental_out": 73,
+     "p_dental_vs_gnomad": 1.0,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.79
+    },
+    "nmd_50nt_rule": {
+     "dental_in": 0,
+     "dental_out": 1,
+     "gnomad_in": 1,
+     "gnomad_out": 8,
+     "non_dental_in": 17,
+     "non_dental_out": 68,
+     "p_dental_vs_gnomad": 1.0,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.747
+    }
+   }
+  },
+  "LAMB3": {
+   "literature_symbol": null,
+   "n_dental": 25,
+   "n_gnomad_hc_pass": 168,
+   "n_non_dental": 160,
+   "protein_aa": 1172,
+   "windows": {
+    "last_10pct": {
+     "dental_in": 7,
+     "dental_out": 18,
+     "gnomad_in": 11,
+     "gnomad_out": 157,
+     "non_dental_in": 4,
+     "non_dental_out": 156,
+     "p_dental_vs_gnomad": 0.0032075726668326088,
+     "p_dental_vs_non_dental": 8.33108416867702e-05,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "dental_in": 10,
+     "dental_out": 15,
+     "gnomad_in": 33,
+     "gnomad_out": 135,
+     "non_dental_in": 28,
+     "non_dental_out": 132,
+     "p_dental_vs_gnomad": 0.03640739271309286,
+     "p_dental_vs_non_dental": 0.015569842265197571,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "dental_in": 4,
+     "dental_out": 21,
+     "gnomad_in": 4,
+     "gnomad_out": 164,
+     "non_dental_in": 0,
+     "non_dental_out": 160,
+     "p_dental_vs_gnomad": 0.010889249425028101,
+     "p_dental_vs_non_dental": 0.00026778715303305467,
+     "threshold_rel": 0.962
+    },
+    "nmd_50nt_rule": {
+     "dental_in": 5,
+     "dental_out": 20,
+     "gnomad_in": 4,
+     "gnomad_out": 164,
+     "non_dental_in": 0,
+     "non_dental_out": 160,
+     "p_dental_vs_gnomad": 0.0021782095466390985,
+     "p_dental_vs_non_dental": 3.1069227699967676e-05,
+     "threshold_rel": 0.948
+    }
+   }
+  },
+  "LRP6": {
+   "literature_symbol": null,
+   "n_dental": 16,
+   "n_gnomad_hc_pass": 70,
+   "n_non_dental": 3,
+   "protein_aa": 1613,
+   "windows": {
+    "last_10pct": {
+     "dental_in": 1,
+     "dental_out": 15,
+     "gnomad_in": 11,
+     "gnomad_out": 59,
+     "non_dental_in": 0,
+     "non_dental_out": 3,
+     "p_dental_vs_gnomad": 0.4504769577915569,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "dental_in": 3,
+     "dental_out": 13,
+     "gnomad_in": 17,
+     "gnomad_out": 53,
+     "non_dental_in": 1,
+     "non_dental_out": 2,
+     "p_dental_vs_gnomad": 0.7532618719566313,
+     "p_dental_vs_non_dental": 0.5304437564499483,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "dental_in": 1,
+     "dental_out": 15,
+     "gnomad_in": 4,
+     "gnomad_out": 66,
+     "non_dental_in": 0,
+     "non_dental_out": 3,
+     "p_dental_vs_gnomad": 1.0,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.94
+    },
+    "nmd_50nt_rule": {
+     "dental_in": 1,
+     "dental_out": 15,
+     "gnomad_in": 5,
+     "gnomad_out": 65,
+     "non_dental_in": 0,
+     "non_dental_out": 3,
+     "p_dental_vs_gnomad": 1.0,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.93
+    }
+   }
+  },
+  "MSX1": {
+   "literature_symbol": null,
+   "n_dental": 17,
+   "n_gnomad_hc_pass": 34,
+   "n_non_dental": 3,
+   "protein_aa": 303,
+   "windows": {
+    "last_10pct": {
+     "dental_in": 0,
+     "dental_out": 17,
+     "gnomad_in": 3,
+     "gnomad_out": 31,
+     "non_dental_in": 0,
+     "non_dental_out": 3,
+     "p_dental_vs_gnomad": 0.5420408163265307,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "dental_in": 3,
+     "dental_out": 14,
+     "gnomad_in": 11,
+     "gnomad_out": 23,
+     "non_dental_in": 0,
+     "non_dental_out": 3,
+     "p_dental_vs_gnomad": 0.33368112355568197,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.752
+    },
+    "last_exon": {
+     "dental_in": 11,
+     "dental_out": 6,
+     "gnomad_in": 17,
+     "gnomad_out": 17,
+     "non_dental_in": 2,
+     "non_dental_out": 1,
+     "p_dental_vs_gnomad": 0.3809734206688143,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.518
+    },
+    "nmd_50nt_rule": {
+     "dental_in": 11,
+     "dental_out": 6,
+     "gnomad_in": 21,
+     "gnomad_out": 13,
+     "non_dental_in": 2,
+     "non_dental_out": 1,
+     "p_dental_vs_gnomad": 1.0,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.462
+    }
+   }
+  },
+  "TSPEAR": {
+   "literature_symbol": null,
+   "n_dental": 22,
+   "n_gnomad_hc_pass": 160,
+   "n_non_dental": 1,
+   "protein_aa": 669,
+   "windows": {
+    "last_10pct": {
+     "dental_in": 2,
+     "dental_out": 20,
+     "gnomad_in": 16,
+     "gnomad_out": 144,
+     "non_dental_in": 0,
+     "non_dental_out": 1,
+     "p_dental_vs_gnomad": 1.0,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.901
+    },
+    "last_25pct": {
+     "dental_in": 8,
+     "dental_out": 14,
+     "gnomad_in": 53,
+     "gnomad_out": 107,
+     "non_dental_in": 0,
+     "non_dental_out": 1,
+     "p_dental_vs_gnomad": 0.8113545869939054,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "dental_in": 2,
+     "dental_out": 20,
+     "gnomad_in": 12,
+     "gnomad_out": 148,
+     "non_dental_in": 0,
+     "non_dental_out": 1,
+     "p_dental_vs_gnomad": 0.6790940494293206,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.925
+    },
+    "nmd_50nt_rule": {
+     "dental_in": 2,
+     "dental_out": 20,
+     "gnomad_in": 16,
+     "gnomad_out": 144,
+     "non_dental_in": 0,
+     "non_dental_out": 1,
+     "p_dental_vs_gnomad": 1.0,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.901
+    }
+   }
+  },
+  "WDR72": {
+   "literature_symbol": null,
+   "n_dental": 31,
+   "n_gnomad_hc_pass": 184,
+   "n_non_dental": 2,
+   "protein_aa": 1102,
+   "windows": {
+    "last_10pct": {
+     "dental_in": 0,
+     "dental_out": 31,
+     "gnomad_in": 27,
+     "gnomad_out": 157,
+     "non_dental_in": 0,
+     "non_dental_out": 2,
+     "p_dental_vs_gnomad": 0.01740657823443423,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.9
+    },
+    "last_25pct": {
+     "dental_in": 5,
+     "dental_out": 26,
+     "gnomad_in": 52,
+     "gnomad_out": 132,
+     "non_dental_in": 0,
+     "non_dental_out": 2,
+     "p_dental_vs_gnomad": 0.19063553532447558,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.75
+    },
+    "last_exon": {
+     "dental_in": 0,
+     "dental_out": 31,
+     "gnomad_in": 5,
+     "gnomad_out": 179,
+     "non_dental_in": 0,
+     "non_dental_out": 2,
+     "p_dental_vs_gnomad": 1.0,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.985
+    },
+    "nmd_50nt_rule": {
+     "dental_in": 0,
+     "dental_out": 31,
+     "gnomad_in": 11,
+     "gnomad_out": 173,
+     "non_dental_in": 0,
+     "non_dental_out": 2,
+     "p_dental_vs_gnomad": 0.3722053758085305,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.969
+    }
+   }
+  },
+  "WNT10A": {
+   "literature_symbol": null,
+   "n_dental": 60,
+   "n_gnomad_hc_pass": 77,
+   "n_non_dental": 7,
+   "protein_aa": 417,
+   "windows": {
+    "last_10pct": {
+     "dental_in": 4,
+     "dental_out": 56,
+     "gnomad_in": 11,
+     "gnomad_out": 66,
+     "non_dental_in": 0,
+     "non_dental_out": 7,
+     "p_dental_vs_gnomad": 0.1794770751246458,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.902
+    },
+    "last_25pct": {
+     "dental_in": 15,
+     "dental_out": 45,
+     "gnomad_in": 21,
+     "gnomad_out": 56,
+     "non_dental_in": 1,
+     "non_dental_out": 6,
+     "p_dental_vs_gnomad": 0.845909504971974,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "dental_in": 26,
+     "dental_out": 34,
+     "gnomad_in": 34,
+     "gnomad_out": 43,
+     "non_dental_in": 1,
+     "non_dental_out": 6,
+     "p_dental_vs_gnomad": 1.0,
+     "p_dental_vs_non_dental": 0.22765257052079146,
+     "threshold_rel": 0.607
+    },
+    "nmd_50nt_rule": {
+     "dental_in": 27,
+     "dental_out": 33,
+     "gnomad_in": 35,
+     "gnomad_out": 42,
+     "non_dental_in": 2,
+     "non_dental_out": 5,
+     "p_dental_vs_gnomad": 1.0,
+     "p_dental_vs_non_dental": 0.6898515888162446,
+     "threshold_rel": 0.566
+    }
+   }
+  },
+  "WNT10B": {
+   "literature_symbol": null,
+   "n_dental": 1,
+   "n_gnomad_hc_pass": 71,
+   "n_non_dental": 9,
+   "protein_aa": 389,
+   "windows": {
+    "last_10pct": {
+     "dental_in": 0,
+     "dental_out": 1,
+     "gnomad_in": 6,
+     "gnomad_out": 65,
+     "non_dental_in": 0,
+     "non_dental_out": 9,
+     "p_dental_vs_gnomad": 1.0,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.902
+    },
+    "last_25pct": {
+     "dental_in": 0,
+     "dental_out": 1,
+     "gnomad_in": 12,
+     "gnomad_out": 59,
+     "non_dental_in": 0,
+     "non_dental_out": 9,
+     "p_dental_vs_gnomad": 1.0,
+     "p_dental_vs_non_dental": 1.0,
+     "threshold_rel": 0.751
+    },
+    "last_exon": {
+     "dental_in": 1,
+     "dental_out": 0,
+     "gnomad_in": 21,
+     "gnomad_out": 50,
+     "non_dental_in": 1,
+     "non_dental_out": 8,
+     "p_dental_vs_gnomad": 0.3055555555555555,
+     "p_dental_vs_non_dental": 0.19999999999999998,
+     "threshold_rel": 0.612
+    },
+    "nmd_50nt_rule": {
+     "dental_in": 1,
+     "dental_out": 0,
+     "gnomad_in": 24,
+     "gnomad_out": 47,
+     "non_dental_in": 2,
+     "non_dental_out": 7,
+     "p_dental_vs_gnomad": 0.34722222222222227,
+     "p_dental_vs_non_dental": 0.3,
+     "threshold_rel": 0.568
+    }
+   }
+  }
+ },
+ "label_buckets": {
+  "both": 47,
+  "dental": 248,
+  "non_dental": 277,
+  "unlabelled": 179
+ },
+ "pooled": {
+  "last_10pct": {
+   "dental_in": 26,
+   "dental_out": 222,
+   "non_dental_in": 8,
+   "non_dental_out": 269,
+   "p": 0.0005491918487027351
+  },
+  "last_25pct": {
+   "dental_in": 67,
+   "dental_out": 181,
+   "non_dental_in": 50,
+   "non_dental_out": 227,
+   "p": 0.015663908509384615
+  },
+  "last_exon": {
+   "dental_in": 87,
+   "dental_out": 161,
+   "non_dental_in": 21,
+   "non_dental_out": 256,
+   "p": 2.501666625505526e-15
+  },
+  "nmd_50nt_rule": {
+   "dental_in": 92,
+   "dental_out": 156,
+   "non_dental_in": 28,
+   "non_dental_out": 249,
+   "p": 1.0527517924764585e-13
+  }
+ }
+}

@@ -1,0 +1,51 @@
+gene,tier,clinvar_symbols,uniprot,protein_length,plp_total,plp_ptv,plp_nonsense,plp_frameshift,plp_fs_fraction,plp_missense,plp_ptv_positioned,plp_ptv_rel_min,plp_ptv_rel_median,plp_ptv_rel_max,plp_ptv_frac_last_10pct,plp_ptv_frac_last_25pct,vus_total,vus_missense,benign_total,conflicting_total,isolated,syndromic
+DSP,syndromic_only,DSP,P15924,2871,862,739,287,452,0.612,27,739,0.003,0.441,0.959,0.057,0.183,2759,2568,1866,782,,"Cardiomyopathy, dilated, with wooly hair, keratoderma, and tooth agenesis"
+LAMB3,isolated_dental,LAMB3,Q13751,1172,366,270,113,157,0.581,12,270,0.009,0.409,0.999,0.048,0.193,377,345,826,51,Amelogenesis imperfecta type 1A,
+AXIN2,syndromic_only,AXIN2,Q9Y2T1,843,210,183,54,129,0.705,2,183,0.004,0.553,0.923,0.066,0.306,2470,2256,1498,339,,Oligodontia-cancer predisposition syndrome
+EDA,isolated_dental,EDA,Q92838,391,305,104,29,75,0.721,137,104,0.003,0.491,0.977,0.038,0.173,118,91,234,33,"Tooth agenesis, selective, X-linked, 1",
+WNT10A,isolated_dental,WNT10A,Q9GZT5,417,119,84,35,49,0.583,28,84,0.005,0.54,0.981,0.071,0.25,198,175,278,41,"Tooth agenesis, selective, 4",Odonto-onycho-dermal dysplasia
+TRIP11,syndromic_only,TRIP11,Q15643,1979,98,75,31,44,0.587,3,75,0.014,0.416,0.93,0.04,0.16,486,421,425,58,,Odontochondrodysplasia 1
+POLR3A,syndromic_only,POLR3A,O14802,1390,145,74,41,33,0.446,28,74,0.022,0.547,0.948,0.068,0.203,505,408,635,77,,"Leukodystrophy, hypomyelinating, 7, with or without oligodontia and/or hypogonadotropic hypogonadism"
+LTBP3,syndromic_only,LTBP3,Q9NS15,1303,100,63,14,49,0.778,4,63,0.004,0.567,0.933,0.063,0.254,1034,941,889,25,,Brachyolmia-amelogenesis imperfecta syndrome
+LRP6,isolated_dental,LRP6,O75581,1613,83,58,30,28,0.483,11,58,0.053,0.46,0.971,0.052,0.207,427,409,296,17,"Tooth agenesis, selective, 7",
+TSPEAR,isolated_dental,TSPEAR,Q8WU66,669,77,56,22,34,0.607,9,56,0.019,0.626,0.948,0.089,0.304,247,224,266,49,"Tooth agenesis, selective, 10",
+DSPP,isolated_dental,DSPP,Q9NZW4,1301,69,52,2,50,0.962,7,52,0.035,0.679,0.959,0.173,0.404,396,355,372,56,Dentin dysplasia type II; Dentinogenesis imperfecta type 2; Dentinogenesis imperfecta type 3,"Deafness, autosomal dominant 39, with dentinogenesis imperfecta 1"
+CTSC,isolated_dental,CTSC,P53634,463,89,50,27,23,0.46,21,50,0.015,0.449,0.965,0.08,0.18,189,163,263,22,"Periodontitis, aggressive 1",
+WDR72,isolated_dental,WDR72,Q3MJ13,1102,54,39,20,19,0.487,4,39,0.012,0.538,0.887,0.0,0.205,350,242,93,14,Amelogenesis imperfecta hypomaturation type 2A3,
+PAX9,isolated_dental,PAX9,P55771,341,67,37,10,27,0.73,21,37,0.07,0.387,0.777,0.0,0.027,116,79,56,6,"Tooth agenesis, selective, 3",
+FAM20A,isolated_dental,FAM20A,Q96MK3,541,49,31,10,21,0.677,4,31,0.022,0.547,0.915,0.032,0.258,172,158,142,11,Amelogenesis imperfecta type 1G,
+POLR3B,syndromic_only,POLR3B,Q9NW08,1133,86,31,12,19,0.613,32,31,0.1,0.593,0.925,0.097,0.258,405,348,273,44,,"Leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism"
+C1S,syndromic_only,C1S,P09871,688,40,30,11,19,0.633,3,30,0.039,0.532,0.866,0.0,0.2,392,360,256,19,,"Ehlers-Danlos syndrome, periodontal type 2; Ehlers-Danlos syndrome, periodontitis type"
+COG6,syndromic_only,COG6,Q9Y2V7,657,46,28,16,12,0.429,2,28,0.058,0.352,0.956,0.036,0.143,206,159,198,16,,Hypohidrosis-enamel hypoplasia-palmoplantar keratoderma-intellectual disability syndrome
+SATB1,syndromic_only,SATB1,Q01826,763,40,25,8,17,0.68,13,25,0.06,0.583,0.934,0.08,0.4,181,144,42,4,,Developmental delay with dysmorphic facies and dental anomalies
+MSX1,isolated_dental,MSX1,P28360,303,35,24,11,13,0.542,7,24,0.092,0.597,0.762,0.0,0.125,98,92,59,4,"Tooth agenesis, selective, 1",Hypoplastic enamel-onycholysis-hypohidrosis syndrome
+SACK1H,isolated_dental,SACK1H,Q6ZRV2,1179,23,23,18,5,0.217,0,23,0.243,0.386,0.589,0.0,0.0,8,7,72,7,"Amelogenesis imperfecta, type 3A",
+GRHL2,syndromic_only,GRHL2,Q6ISB3,625,28,15,9,6,0.4,2,15,0.12,0.494,0.859,0.0,0.133,153,143,163,10,,Nail and teeth abnormalities-marginal palmoplantar keratoderma-oral hyperpigmentation syndrome
+ENAM,isolated_dental,ENAM,Q9NRM1,1142,21,14,7,7,0.5,1,14,0.032,0.273,0.806,0.0,0.071,237,193,62,9,Amelogenesis imperfecta - hypoplastic autosomal dominant - local; Amelogenesis imperfecta type 1C,
+WNT10B,isolated_dental,WNT10B,O00744,389,26,14,5,9,0.643,9,14,0.1,0.581,1.0,0.071,0.286,84,81,33,4,"Tooth agenesis, selective, 8",
+IL11RA,syndromic_only,IL11RA,Q14626,422,26,10,6,4,0.4,8,10,0.066,0.445,0.791,0.0,0.1,27,24,61,5,,Craniosynostosis and dental anomalies
+AMELX,isolated_dental,AMELX,Q99217,191,22,9,4,5,0.556,7,9,0.021,0.665,0.927,0.111,0.333,22,19,23,1,Amelogenesis imperfecta type 1E,
+PTH1R,isolated_dental,PTH1R,Q03431,593,33,9,6,3,0.333,14,9,0.175,0.562,0.818,0.0,0.111,258,230,150,35,Primary failure of tooth eruption,
+ITGB6,isolated_dental,ITGB6,P18564,788,14,6,4,2,0.333,5,6,0.174,0.454,0.886,0.0,0.333,139,135,66,3,Amelogenesis imperfecta type 1H,
+DLX3,syndromic_only,DLX3,O60479,287,11,5,0,5,1.0,6,5,0.129,0.666,0.669,0.0,0.0,107,75,95,7,,Hypomaturation-hypoplastic amelogenesis imperfecta with taurodontism
+FOSL2,syndromic_only,FOSL2,P15408,326,5,5,1,4,0.8,0,5,0.595,0.635,0.831,0.0,0.2,36,34,4,1,,Aplasia cutis-enamel dysplasia syndrome
+KDM1A,syndromic_only,KDM1A,O60341,852,16,5,3,2,0.4,9,5,0.318,0.407,0.777,0.0,0.2,714,659,546,21,,Palatal anomalies-widely spaced teeth-facial dysmorphism-developmental delay syndrome
+KLK4,isolated_dental,KLK4,Q9Y5K2,254,7,5,2,3,0.6,1,5,0.224,0.602,0.831,0.0,0.4,29,29,26,0,Amelogenesis imperfecta type 2A1,
+MMP20,isolated_dental,MMP20,O60882,483,13,5,4,1,0.2,6,5,0.07,0.778,0.94,0.2,0.6,126,100,60,9,Amelogenesis imperfecta hypomaturation type 2A2,
+ODAPH,isolated_dental,ODAPH,Q17RF5,130,7,4,2,2,0.5,0,4,0.138,0.585,0.592,0.0,0.0,2,0,13,0,Amelogenesis imperfecta hypomaturation type 2A4,
+SLC10A7,syndromic_only,SLC10A7,Q0GE19,340,10,4,3,1,0.25,3,4,0.182,0.506,0.544,0.0,0.0,41,39,41,0,,"Short stature, amelogenesis imperfecta, and skeletal dysplasia with scoliosis"
+SLC24A4,isolated_dental,SLC24A4,Q8NFF2,622,5,3,3,0,0.0,2,3,0.33,0.545,0.64,0.0,0.0,99,98,75,1,Amelogenesis imperfecta hypomaturation type 2A5,
+SMOC2,isolated_dental,SMOC2,Q9H3U7,446,4,3,2,1,0.333,0,3,0.011,0.484,0.841,0.0,0.333,109,103,71,1,"Dentin dysplasia, type IA",
+GPR68,isolated_dental,GPR68,Q15743,365,4,2,0,2,1.0,1,2,0.074,0.611,0.611,0.0,0.0,57,56,19,1,"Amelogenesis imperfecta, hypomaturation type, IIa6",
+RELT,isolated_dental,RELT,Q969Z4,430,9,2,0,2,1.0,4,2,0.67,0.907,0.907,0.5,0.5,70,69,21,2,"Amelogenesis imperfecta, type 3C",
+AMBN,isolated_dental,AMBN,Q9NP70,447,5,1,0,1,1.0,1,1,0.405,0.405,0.405,0.0,0.0,63,54,28,2,Amelogenesis imperfecta type 1F,
+C1R,syndromic_only,C1R,P00736,705,22,1,0,1,1.0,19,1,0.677,0.677,0.677,0.0,0.0,57,51,102,10,,"Ehlers-Danlos syndrome, periodontal type 1; Ehlers-Danlos syndrome, periodontitis type"
+POLR3GL,syndromic_only,POLR3GL,Q9BT43,218,3,1,1,0,0.0,0,1,0.55,0.55,0.55,0.0,0.0,33,33,2,0,,"Short stature, oligodontia, dysmorphic facies, and motor delay"
+AMTN,isolated_dental,AMTN,Q6UX39,209,1,0,0,0,,0,0,,,,,,22,22,10,0,Amelogenesis imperfecta type 3B,
+CTBP1,syndromic_only,CTBP1,Q13363,440,2,0,0,0,,2,0,,,,,,159,127,214,8,,"Hypotonia, ataxia, developmental delay, and tooth enamel defect syndrome"
+GREM2,isolated_dental,GREM2,Q9H772,168,1,0,0,0,,1,0,,,,,,22,21,2,1,"Tooth agenesis, selective, 9",
+KCTD1,isolated_dental,KCTD1,Q719H9,257,13,0,0,0,,13,0,,,,,,150,142,57,5,Dental radicular dysplasia,
+MIA3,syndromic_only,MIA3,Q5JRA6,1907,3,0,0,0,,0,0,,,,,,269,265,56,1,,Odontochondrodysplasia 2 with hearing loss and diabetes
+SP6,isolated_dental,SP6,Q3SY56,376,2,0,0,0,,2,0,,,,,,53,53,1,0,"Amelogenesis imperfecta, IIa 1K",
+SSUH2,isolated_dental,SSUH2,Q9Y2M2,375,2,0,0,0,,2,0,,,,,,64,55,9,0,"DENTIN DYSPLASIA, TYPE IC",
+VPS4B,isolated_dental,VPS4B,O75351,444,0,0,0,0,,0,0,,,,,,40,40,0,0,"Dentin dysplasia, type IB",

@@ -1,0 +1,48 @@
+{
+ "acc": "Q9NZW4",
+ "length": 1301,
+ "features": [
+  {
+   "type": "Signal",
+   "start": 1,
+   "end": 15,
+   "desc": ""
+  },
+  {
+   "type": "Chain",
+   "start": 16,
+   "end": 1301,
+   "desc": "Dentin sialophosphoprotein"
+  },
+  {
+   "type": "Chain",
+   "start": 16,
+   "end": 462,
+   "desc": "Dentin sialoprotein"
+  },
+  {
+   "type": "Chain",
+   "start": 463,
+   "end": 1301,
+   "desc": "Dentin phosphoprotein"
+  },
+  {
+   "type": "Region",
+   "start": 55,
+   "end": 89,
+   "desc": "Disordered"
+  },
+  {
+   "type": "Region",
+   "start": 146,
+   "end": 171,
+   "desc": "Disordered"
+  },
+  {
+   "type": "Region",
+   "start": 202,
+   "end": 1301,
+   "desc": "Disordered"
+  }
+ ]
+}
