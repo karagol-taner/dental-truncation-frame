@@ -188,8 +188,6 @@ def figure2():
                 color=INK if (p is not None and p < 0.05) else INK2,
                 ha="right", va="center")
     axes[-1].set_xlabel("position along the protein, as a fraction of its length")
-    axes[0].set_title("Truncation position by reported phenotype", loc="left",
-                      color=INK, pad=26)
     axes[0].legend(handles=[Line2D([], [], color=S2, lw=2, label="dental phenotype"),
                             Line2D([], [], color=S1, lw=2, label="other phenotype"),
                             Line2D([], [], color=GREY, lw=2, label="gnomAD")],
@@ -414,8 +412,6 @@ def figure6_grid():
     for s in ("top", "right", "left"):
         ax.spines[s].set_visible(False)
     ax.grid(axis="y", color="#f2f1ed", lw=0.5); ax.set_axisbelow(True)
-    ax.set_title("Where each test reaches significance, by gene",
-                 loc="left", color=INK, pad=28)
     ax.legend(handles=[Line2D([], [], marker="o", ls="none", markerfacecolor=S2,
                               markeredgecolor="none", label="p or q below 0.05", markersize=8),
                        Line2D([], [], marker="o", ls="none", markerfacecolor="#e7e6e2",
@@ -610,14 +606,12 @@ def figure6():
     ax.text(Lp + 60, ybase - 1.5, f"{len(pop)} gnomAD", fontsize=7.8,
             color=INK2, va="center", ha="left")
 
-    ax.set_xlim(-60, Lp + 450)
+    ax.set_xlim(-60, Lp + 270)
     ax.set_ylim(ybase - 4.3, top + 1.1)
     ax.set_yticks([])
     ax.set_xlabel("residue")
     for s in ("top", "right", "left"):
         ax.spines[s].set_visible(False)
-    ax.set_title("DSPP truncations and their novel tails", loc="left", color=INK,
-                 pad=TITLE_PAD)
     ax.plot([Lp, Lp], [ybase - 3.35, top - 1.35], color=MUTED, lw=0.8, ls=(0, (2, 2)),
             zorder=1)
     ax.text(Lp, ybase - 3.55, "original stop", fontsize=7.2, color=INK2, ha="center",

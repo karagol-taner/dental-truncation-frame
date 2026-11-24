@@ -1,5 +1,5 @@
 
-import csv, gzip, json, os, re, sys, collections, urllib.parse, urllib.request
+import csv, datetime, gzip, json, os, re, sys, collections, urllib.parse, urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
@@ -205,6 +205,8 @@ def main():
         "isolated_genes_ptv_ge_5": sum(1 for e in iso if e["plp_ptv_positioned"] >= 5),
         "genes": genes,
     }
+    _t = datetime.date.fromtimestamp(os.path.getmtime(VS))
+    out["clinvar_release"] = "%d %s %d" % (_t.day, _t.strftime("%B"), _t.year)
     json.dump(out, open(os.path.join(ANALYSIS, "derived_v2.json"), "w"),
               indent=1, sort_keys=True, default=list)
 
